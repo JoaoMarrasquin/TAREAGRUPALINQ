@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\TrabajoGrupoLINQ\bin\Debug\TrabajoGrupoLINQ.exe.config
+C:\Users\hp\source\repos\TrabajoGrupoLINQ\bin\Debug\TrabajoGrupoLINQ.exe
+C:\Users\hp\source\repos\TrabajoGrupoLINQ\bin\Debug\TrabajoGrupoLINQ.pdb
+C:\Users\hp\source\repos\TrabajoGrupoLINQ\obj\Debug\TrabajoGrupoLINQ.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\TrabajoGrupoLINQ\obj\Debug\TrabajoGrupoLINQ.exe
+C:\Users\hp\source\repos\TrabajoGrupoLINQ\obj\Debug\TrabajoGrupoLINQ.pdb
